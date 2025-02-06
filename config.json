@@ -1,0 +1,12 @@
+{
+    "auth":"{your sol token}",
+    "domain":"https://demo.solidatus.com",
+    "modelId":"679bafb48f114c0994d20a95",
+
+    "alation_edges" : "https://mmacsv3.mtse.alationcloud.com/integration/v2/lineage/?otype=table&oid=1.ALATION_EDW.FINANCE.FIN_CSTMR&keyField=key",
+    "alation_nodes" : "https://mmacsv3.mtse.alationcloud.com/integration/v2/column/?schema_id=4&ds_id=1&limit=100&skip=0",
+    "alation_auth"  : "{your alation token}",
+    "alation_edgetype" : "attribute",  
+   
+    "use_cached_json"  : "True"  
+}
